@@ -83,7 +83,7 @@ This page evaluates customer retention and revenue quality through:
 
 ## Live Dashboard
 
-[View the Interactive Power BI Dashboard](PASTE_POWER_BI_LINK_HERE)
+[View the Interactive Power BI Dashboard]([PASTE_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiZTZhOThmYzQtY2I1NS00ODlkLTlkMWQtZTZmN2Y1OTNhYzc4IiwidCI6IjIzMzg4ZmU5LWJlNmQtNDIxMy05OTc4LWE4YzljNjA2N2Y3NiIsImMiOjEwfQ%3D%3D))
 
 ## Dashboard Preview
 
