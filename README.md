@@ -12,7 +12,7 @@ This portfolio showcases business analytics projects created with Power BI and T
 
 An interactive Power BI dashboard analysing revenue, profitability, customer segments, product performance, and geographic markets.
 
-[View Power BI Dashboard](POWER_BI_ECOMMERCE_LINK](https://app.powerbi.com/view?r=eyJrIjoiYzFhYzc0MTYtNTgyYS00ZDRkLTlmM2UtNzEzODM0YzQxMzM5IiwidCI6IjIzMzg4ZmU5LWJlNmQtNDIxMy05OTc4LWE4YzljNjA2N2Y3NiIsImMiOjEwfQ%3D%3D))
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzFhYzc0MTYtNTgyYS00ZDRkLTlmM2UtNzEzODM0YzQxMzM5IiwidCI6IjIzMzg4ZmU5LWJlNmQtNDIxMy05OTc4LWE4YzljNjA2N2Y3NiIsImMiOjEwfQ%3D%3D)
 
 ---
 
@@ -20,7 +20,7 @@ An interactive Power BI dashboard analysing revenue, profitability, customer seg
 
 An interactive Power BI dashboard analysing the conversion funnel, acquisition channel performance, customer retention, churn, and revenue quality.
 
-[View Power BI Dashboard]([POWER_BI_SAAS_LINK](https://app.powerbi.com/view?r=eyJrIjoiZTZhOThmYzQtY2I1NS00ODlkLTlkMWQtZTZmN2Y1OTNhYzc4IiwidCI6IjIzMzg4ZmU5LWJlNmQtNDIxMy05OTc4LWE4YzljNjA2N2Y3NiIsImMiOjEwfQ%3D%3D))
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTZhOThmYzQtY2I1NS00ODlkLTlkMWQtZTZmN2Y1OTNhYzc4IiwidCI6IjIzMzg4ZmU5LWJlNmQtNDIxMy05OTc4LWE4YzljNjA2N2Y3NiIsImMiOjEwfQ%3D%3D)
 
 ---
 
