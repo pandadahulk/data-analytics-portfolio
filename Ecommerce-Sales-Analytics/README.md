@@ -79,7 +79,7 @@ This page evaluates geographic and market performance through:
 
 ## Live Dashboard
 
-[View the Interactive Power BI Dashboard](PASTE_ECOMMERCE_POWER_BI_LINK_HERE)
+[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzFhYzc0MTYtNTgyYS00ZDRkLTlmM2UtNzEzODM0YzQxMzM5IiwidCI6IjIzMzg4ZmU5LWJlNmQtNDIxMy05OTc4LWE4YzljNjA2N2Y3NiIsImMiOjEwfQ%3D%3D)
 
 ## Dashboard Preview
 
