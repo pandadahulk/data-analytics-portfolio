@@ -1,4 +1,4 @@
-# SaaS Growth Analytics Dashboard
+<img width="1596" height="804" alt="image" src="https://github.com/user-attachments/assets/bd77dafa-e2cf-4789-82d3-8886683975d4" /># SaaS Growth Analytics Dashboard
 
 ## Project Overview
 
@@ -83,7 +83,7 @@ This page evaluates customer retention and revenue quality through:
 
 ## Live Dashboard
 
-[View the Interactive Power BI Dashboard]([PASTE_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiZTZhOThmYzQtY2I1NS00ODlkLTlkMWQtZTZmN2Y1OTNhYzc4IiwidCI6IjIzMzg4ZmU5LWJlNmQtNDIxMy05OTc4LWE4YzljNjA2N2Y3NiIsImMiOjEwfQ%3D%3D))
+[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTZhOThmYzQtY2I1NS00ODlkLTlkMWQtZTZmN2Y1OTNhYzc4IiwidCI6IjIzMzg4ZmU5LWJlNmQtNDIxMy05OTc4LWE4YzljNjA2N2Y3NiIsImMiOjEwfQ%3D%3D)
 
 ## Dashboard Preview
 
