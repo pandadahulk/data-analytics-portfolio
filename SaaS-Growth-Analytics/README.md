@@ -87,4 +87,14 @@ This page evaluates customer retention and revenue quality through:
 
 ## Dashboard Preview
 
-Screenshots will be added below.
+### Executive Overview
+
+![Executive Overview](executive-overview.png)
+
+### Customer Acquisition
+
+![Customer Acquisition](customer-acquisition.png)
+
+### Retention & Revenue
+
+![Retention and Revenue](retention-revenue.png)
