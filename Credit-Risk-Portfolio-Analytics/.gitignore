@@ -1,0 +1,72 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS and IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Credentials and secrets
+kaggle.json
+.kaggle/
+.env
+.env.*
+secrets/
+
+# Kaggle raw competition data
+data/raw/
+data/interim/
+data/processed/
+
+application_train.csv
+application_test.csv
+bureau.csv
+bureau_balance.csv
+previous_application.csv
+installments_payments.csv
+POS_CASH_balance.csv
+credit_card_balance.csv
+sample_submission.csv
+HomeCredit_columns_description.csv
+
+# Customer-level derived datasets
+*customer_risk_portfolio*
+*test_predictions*
+*model_train*
+*model_test*
+*application_train_cleaned*
+*application_test_cleaned*
+*application_train_features*
+*application_test_features*
+*bureau_features*
+*bureau_balance_features*
+*previous_application_features*
+*installments_features*
+*pos_cash_features*
+*credit_card_features*
+
+# Large data and model files
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.joblib
+*.model
+
+# Power BI files that may embed customer-level data
+*.pbix
+*.pbit
+*.tmp
+*.bak
+
+# Keep safe aggregated portfolio outputs
+!data/aggregated/
+!data/aggregated/*.csv
+!data/aggregated/README.md
